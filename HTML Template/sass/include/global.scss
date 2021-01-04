@@ -1,0 +1,16 @@
+/* global classes */
+
+button,button:focus {
+    outline:none !important;
+    box-shadow: none !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+#special-price {
+    .button-group {
+        text-align: right;
+    }
+}
